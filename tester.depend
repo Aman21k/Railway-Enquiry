@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538061720 source:f:\himanshudata\cpp codes\tester\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1538479220 source:c:\users\admin\desktop\ds pro\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<string>
+
